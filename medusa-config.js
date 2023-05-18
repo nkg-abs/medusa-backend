@@ -77,6 +77,8 @@ if (DATABASE_URL && DATABASE_TYPE === "postgres") {
   delete projectConfig["database_database"];
 }
 
+console.log(projectConfig);
+
 
 /** @type {import('@medusajs/medusa').ConfigModule} */
 module.exports = {
