@@ -7,4 +7,4 @@ Require node v16+
 Try to use npm instead pnpm.
 
 ## API
-localhost:7000 has admin dashboard.
+localhost:9000/app has admin dashboard.
