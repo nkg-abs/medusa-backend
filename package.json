@@ -43,6 +43,7 @@
     "medusa-payment-manual": "^1.0.23",
     "medusa-payment-stripe": "^5.0.0",
     "medusa-plugin-meilisearch": "^2.0.5",
+    "medusa-plugin-restock-notification": "^6.0.0",
     "typeorm": "^0.3.16"
   },
   "devDependencies": {
