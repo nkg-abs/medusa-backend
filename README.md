@@ -4,6 +4,7 @@ Require node v16+
 ## Experimental
 Try to use npm instead pnpm.
 Installed medusa-plugin-restock-notification@6.0.0 in order to work with @medusajs/medusa ^1.11.0.
+Installed medusa-plugin-mailchimp@1.1.48 in order to work with @medusajs/medusa ^1.11.0.
 
 ## API
 localhost:9000/app has admin dashboard.
